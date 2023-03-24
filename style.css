@@ -30,7 +30,7 @@ body{
   box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.189);
 }
 
-article:hover{
+.card:hover{
     transform: scale(1.005);
     box-shadow: 0 0 15px steelblue;
 }
